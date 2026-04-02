@@ -14,7 +14,7 @@ This repository contains a geospatial layer of hospital locations. The dataset i
 - Geometry type: Points and Polygons
 - Coordinate Reference System (CRS): [Specify CRS, e.g., WGS 84]  
 
-# Attributes (if applicable)
+#Attributes (if applicable)
 Typical attributes may include:
 - Hospital name  ( Arabic, English)
 - Type/classification  
